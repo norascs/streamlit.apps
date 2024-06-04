@@ -1,5 +1,6 @@
 <h1>Youtube AI Summarizer</h1>
-<p> </p>I was frustrated with having to sign up for various AI summarization tools and finding one that fit my needs. Therefore, I created my own summarizer. This tool focuses on getting straight to the point by providing succinct summaries with clearly enumerated points. <br>
+<p> </p>I was frustrated with having to sign up for various AI summarization tools and finding one that fit my needs. Therefore, I created my own summarizer. This tool focuses on getting straight to the point by providing succinct summaries with clearly enumerated points. <be>
+
 
 At present, the summarizer uses the Groq API, which has a rate limit of 30,000 tokens per minute. This limitation can be problematic for long-form videos, such as podcasts, where the token count can quickly exceed this limit. <br>
 
