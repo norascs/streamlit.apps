@@ -6,4 +6,4 @@ At present, the summarizer uses the Groq API, which has a rate limit of 30,000 t
 
 Once Groq releases their paid tier, this token limit issue will be resolved, allowing for more extensive summarization capabilities.
 
-In the interim, I have also integrated the OpenAI API as an alternative summarization engine. The necessary code for this integration is provided, offering flexibility for those who may prefer using OpenAI's services.
+In the interim, I have also integrated the OpenAI API as an alternative summarization engine. 
